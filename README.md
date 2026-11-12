@@ -16,13 +16,9 @@ When another desktop application asks Linux to open an HTTP(S) URL, the catcher:
 
 It does **not** inspect network traffic and does not intercept navigation inside an already-running browser.
 
-**Screenshot: Main Dashboard**
+![Screenshot: Main Dashboard](screenshot_001.png)
 
-![[screenshot_001.png]]
-
-
-**Screenshot: Notification**
-![[screenshot_002.png]]
+![Screenshot: Notification](screenshot_002.png)
 
 ## Requirements
 
